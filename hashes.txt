@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - True Devotion
+
+This log tracks the cryptographic history and versioning for the song **True Devotion** (true-devotion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-02T13:25:10.037357 | `v1` | `de5860714d354cb70f7a4de74ec85b73b82e711e9d79d16ef9a96acf036b3a2e` | `7df4603ff13e373b522471f4a57b5b1ad3300bcfba338a72ff1876dd103b1ef5` | `2026-06-02_true-devotion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
