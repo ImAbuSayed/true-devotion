@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/true-devotion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for True Devotion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/true-devotion/) |
+| **Get License** | [Music Rights & Licensing for True Devotion](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/true-devotion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Caught in the pull of a quiet gaze
+> A midnight fire through a smoky haze
+> Pulling you close in the fading light
+> Lost in the rhythm of a restless night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
